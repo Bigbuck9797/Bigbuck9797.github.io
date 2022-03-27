@@ -1,6 +1,7 @@
+# Common Rules
 
-#Common Rules
 USE COMMON SENSE
+
 Do not harass, troll, minge, or grief other players.
 
 Do not advertise another community anywhere for any reason.
