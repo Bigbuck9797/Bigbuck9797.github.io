@@ -1,3 +1,52 @@
-MOTD
+Rules
 
-<header>L<header>
+
+
+
+
+
+
+
+
+
+
+
+
+Base Rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raiding rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basing rules
