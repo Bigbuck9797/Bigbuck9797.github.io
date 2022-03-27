@@ -51,7 +51,17 @@ You must advert before commiting a role-play action. *Example: Raiding,Mugging,K
 
 
 
-Base Rules
+# Raiding Rules
+
+Raid can last up to 20 minutes after that you have to advert over"
+
+You may not raid Hobos.
+
+You may not raid the same person 2 times within 20 minutes.
+			
+You may kill players that are directly outside the base you are raiding.
+			
+You may steal anything from the base you are raiding without adverting.
 
 
 
@@ -71,8 +81,25 @@ Base Rules
 
 
 
-Raiding rules
+# basing rules
 
+You must have a building sign while building."
+
+You must be visable to the raider whilst shooting
+			
+The raider must be able to stand at all times.
+			
+You may not have a blackout/confusing base.
+			
+The start and end of your bases \"death hallway\" must be clear.
+			
+Your base cannot have over 50 turns in the \"death hallway\
+			
+You may megabase with 3 buildings if your group/clan has 4 or more people. You can not block main nps's
+			
+Your base can go out onto the street if connected to a building and not blocking the road fully.
+			
+you can have up to 5 fading doors and eachone needs a keypad to get in and out of your base.
 
 
 
