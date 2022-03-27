@@ -101,6 +101,15 @@ Your base can go out onto the street if connected to a building and not blocking
 			
 you can have up to 5 fading doors and eachone needs a keypad to get in and out of your base.
 
+
+
+
+
+
+
+
+
+
 # Job Rules
 
 Gun Dealer, you may base and print money but you can not (rid,mug,assist a raid,assist a mug) you can not base with a raiding class
