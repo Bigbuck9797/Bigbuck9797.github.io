@@ -110,11 +110,106 @@ you can have up to 5 fading doors and eachone needs a keypad to get in and out o
 
 
 
-# Job Rules
+# -------------------------------Job Rules For Hoopty RP---------------------
 
-Gun Dealer, you may base and print money but you can not (rid,mug,assist a raid,assist a mug) you can not base with a raiding class
+# ----------------Gangs---------------
+BLOODZ/GREEN SHOTTAZ - You May Base/Raid/Mug
 
-gangs,may base print money you can not base with a the banker, you may (raid,mug,assist a raid,assit a mug) you can advert /gang war accept  or denied and other have to accept or not with out a gang war you can not randomly kill a green shottaz will be rdm go for both gangs
+BLOODZ/GREEN SHOTTAZ Leaders - You May Base/Raid/Mug (edited)
+
+# ----------------Spook-----------------
+
+Big Baby - You Cannot Base/Mug/Raid "But you may Advert "RAGE/BABYRAGE" every 10 minutes and kill everyone around you for 5 seconds"
+
+Haunter - You Cannot Base/Mug/Raid
+
+Darkrai - You Cannot Base/Mug/Raid
+
+MewTwo - You Cannot Base/Mug/Raid  "But you may Advert "RAGE" every 10 minutes and kill everyone around you for 5 seconds"
+
+The Fiend - You Cannot Base/Mug/Raid (edited)
+
+# ---------------Dealers----------------
+Gun Dealer - You May Base But Cannot Raid/Mug
+
+Vape Dealer - You May Base But Cannot Raid/Mug (edited)
+
+# ------------Civil Protection-----------
+
+Leon S Kennedy - You Cannot Base/Raid/Mug "ONLY CAN BASE IF MAYOR HAS BASE"
+
+Master Chief - You Cannot Base/Raid/Mug "ONLY CAN BASE IF MAYOR HAS BASE"
+
+Mayor - You May Build A Base In Mayors Office But Cannot Mug/Raid "Unless Warrant Allows"
+
+Police Chief - You Cannot Base/Raid/Mug "May Build Base If there Is NO Mayor"
+
+Police Detective - You Cannot Base/Raid/Mug "ONLY CAN BASE IF MAYOR HAS BASE"
+
+Police Officer - You Cannot Base/Raid/Mug "ONLY CAN BASE IF MAYOR HAS BASE"
+
+SWAT/RIOT - You Cannot Base/Raid/Mug "ONLY CAN BASE IF MAYOR HAS BASE" (edited)
+
+# -------------Criminals-----------------
+Elite - You May Base/Raid/Mug
+
+John Marston - You May Base/Raid/Mug
+
+Hitman - You May Base/Raid "But Cannot Raid/Mug"
+
+Meth Cook - You May Base "But Cannot Raid/Mug
+
+Pro Thief - You May Base/Raid/Mug
+
+Raider - You May Base/Raid/Mug
+
+Sewer Dweller - You Cannot Base/Raid/Mug "BUT EVERYONE IN SEWERS IS KOS" "SEWERS ONLY"
+Smoke - You May Base/Raid/Mug
+
+Spawn - You May Base/Raid/Mug
+
+Thief - You May Base/Raid/Mug
+
+Thug - You May Base/Raid/Mug
+
+Ultimate Raider - You May Base/Raid/Mug
+
+Vaas - You May Base/Raid/Mug
+
+Weed Grower - You May Base " But Cannot Raid/Mug (edited)
+
+# ------------Citizens-------------------------
+Banker - You May Base "But Cannot Raid/Mug"
+
+Cinema Owner - You May Base "But Cannot Raid/Mug"
+
+Citizen - You May Base/Mug "But Cannot Raid ONLY ASSIST"
+
+Dwayne The Biggest - You May Base "But Cannot Raid/Mug ONLY ASSIST"
+
+FreeRunner - You May Base "But Cannot Raid/Mug"
+
+Fuel Refiner - You May Base "But Cannot Raid/Mug"
+
+Hobo - You Cannot Base/Mug/Raid
+
+John Cena - You May Base "But Cannot Raid/Mug ONLY ASSIST"
+
+MoonShine/Master Distiller - You May Base "But Cannot Raid/Mug"
+
+Medic - You May Base "But Cannot Raid/Mug"
+
+Pizza Chef - You May Base "But Cannot Raid/Mug"
+
+RastaMan - You May Base "But Cannot Raid/Mug"
+
+Real Estate Agent - You May Base "But Cannot Raid/Mug"
+
+TrashMan - You May Base "But Cannot Raid/Mug"
+
+Vape Smoker - You May Base "But Cannot Raid/Mug"
+
+You do not have permission to send messages in this channel.
 
 
 
